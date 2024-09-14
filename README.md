@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Iasmin Santiago!
+## Hi! 👋 I'm Iasmin Santiago!
 <h3 align="center">A passionate data engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **Python, Power BI, SQL**
