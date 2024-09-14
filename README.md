@@ -2,9 +2,11 @@
 <h3 align="center">A passionate data engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **Python, Power BI, SQL**
+
   Atualmente focando meus estudos em **Python, Power BI, SQL**
 
 - 📝 I write articles on [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
+
   Escrevo artigos no [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
 <h3 align="left">Connect with me:</h3>
