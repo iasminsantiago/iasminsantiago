@@ -14,7 +14,7 @@ Projetos/projects [Python](https://github.com/iasminsantiago/Projetos-python)
 
 Projetos principais | main projects:
 - [Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
-- (Análise de vendas anuais + tomada de decisão da diretoria](https://github.com/iasminsantiago/analise_vendas_anuais]
+- [Análise de vendas anuais + tomada de decisão da diretoria](https://github.com/iasminsantiago/analise_vendas_anuais)
 - [Calculadora de desconto em combustíveis](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
 - [Calculadora de triângulos](https://github.com/iasminsantiago/calculadora_triangulo)
 - [Previsão de estoque (AWS Sagemaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
