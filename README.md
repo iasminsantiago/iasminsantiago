@@ -12,7 +12,7 @@ Projetos/projects [Python](https://github.com/iasminsantiago/Projetos-python)
 - [Guanabara](https://github.com/iasminsantiago/Projetos-python/tree/master/Cursoemvideo/Projetos_a_limpo_pythoncursoemvideo)
 
 
-Projetos principais | main projects Python:
+Projetos principais | main projects - Python:
 - [Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
 - [Análise de vendas anuais + tomada de decisão da diretoria](https://github.com/iasminsantiago/analise_vendas_anuais)
 - [Calculadora de desconto em combustíveis](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
@@ -21,7 +21,7 @@ Projetos principais | main projects Python:
 
   
 
-Projetos/projects Power BI
+Projetos/projects - Power BI
 - [Sales](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
 - [Diabetes on women](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
 
