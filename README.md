@@ -1,13 +1,10 @@
 ## Hi! 👋 I'm Iasmin Santiago!
 <h3 align="center">A passionate data engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, Power BI, SQL**
+- 🌱 I’m currently learning **Python, Power BI, SQL** |  Atualmente foco meus estudos em **Python, Power BI, SQL**. 
 
-  Atualmente foco meus estudos em **Python, Power BI, SQL**. 
+- 📝 My articles | Meus artigos [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
-- 📝 I write articles on [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
-
-  Escrevo artigos no [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
 [Projetos/projects Python](https://github.com/iasminsantiago/Projetos-python)
 - [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
