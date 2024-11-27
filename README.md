@@ -6,7 +6,7 @@
 - 📝  Meus artigos | My articles [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
 
-[Projetos/projects Python](https://github.com/iasminsantiago/Projetos-python)
+Projetos/projects [Python](https://github.com/iasminsantiago/Projetos-python)
 - [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
 - [DIO](https://github.com/iasminsantiago/Projetos-python/tree/master/DIO)
 - [Guanabara](https://github.com/iasminsantiago/Projetos-python/tree/master/Cursoemvideo/Projetos_a_limpo_pythoncursoemvideo)
