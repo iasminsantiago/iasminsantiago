@@ -1,9 +1,9 @@
 ## Hi! 👋 I'm Iasmin Santiago!
-<h3 align="center">A passionate data engineer from Brazil</h3>
+<h3 align="center">A passionate data engineer/analyst from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, Power BI, SQL** |  Atualmente foco meus estudos em **Python, Power BI, SQL**. 
+- 🌱  Atualmente foco meus estudos em **Python, Power BI, SQL**  | I’m currently learning **Python, Power BI, SQL**  
 
-- 📝 My articles | Meus artigos [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
+- 📝  Meus artigos | My articles [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
 
 [Projetos/projects Python](https://github.com/iasminsantiago/Projetos-python)
@@ -12,7 +12,7 @@
 - [Guanabara](https://github.com/iasminsantiago/Projetos-python/tree/master/Cursoemvideo/Projetos_a_limpo_pythoncursoemvideo)
 
 
-Projetos principais / main projects:
+Projetos principais | main projects:
 - [Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
 - [Previsão de estoque (AWS Sagemaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
 
