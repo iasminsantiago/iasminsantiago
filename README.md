@@ -9,6 +9,23 @@
 
   Escrevo artigos no [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
 
+[Projetos/projects Python](https://github.com/iasminsantiago/Projetos-python)
+- [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
+- [DIO](https://github.com/iasminsantiago/Projetos-python/tree/master/DIO)
+- [Guanabara](https://github.com/iasminsantiago/Projetos-python/tree/master/Cursoemvideo/Projetos_a_limpo_pythoncursoemvideo)
+
+
+Projetos principais / main projects:
+- [Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
+- [Previsão de estoque (AWS Sagemaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
+
+  
+
+Projetos/projects Power BI
+- [Sales](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
+- [Diabetes on women](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
