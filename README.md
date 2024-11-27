@@ -3,7 +3,7 @@
 
 - 🌱  Atualmente foco meus estudos em **Python, Power BI, SQL**  | I’m currently learning **Python, Power BI, SQL**  
 
-- 📝  Meus artigos | My articles [https://www.dio.me/users/iasmin_santiago](https://www.dio.me/users/iasmin_santiago)
+- 📝  [Meus artigos | My articles](https://www.dio.me/users/iasmin_santiago)
 
 
 Projetos/projects [Python](https://github.com/iasminsantiago/Projetos-python)
