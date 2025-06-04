@@ -2,15 +2,17 @@
  ✨ A data engineer/software developer from Brazil, passionate about technology and inovation...
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
+<br>
+
+###  About Me
+
+✍️ I write articles on [DIO](https://www.dio.me/users/iasmin_santiago) and [Medium](https://medium.com/@iasmin.santiago)
 
 🌱  Currently improving my skills in  **Python, SQL, Java**
 
 🛠️ Languages and Tools: Python • SQL • Java • Power BI • Git • MySQL • SQL Server
+<br>
 
-
-
-
-📚 Learning & Sharing Knowledge:  [My articles on DIO (PT-BR)](https://www.dio.me/users/iasmin_santiago) | [My articles on Medium](https://medium.com/@iasmin.santiago)
 
 💻 Main projects:
 - [🏦 Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
@@ -26,13 +28,12 @@
 
 
 
-
 ✨ All my Python projects:
 - [Main folder](https://github.com/iasminsantiago/Projetos-python)
 - [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
 - [DIO](https://github.com/iasminsantiago/Projetos-python/tree/master/DIO)
 
-
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
