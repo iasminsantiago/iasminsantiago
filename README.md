@@ -15,11 +15,11 @@
 
 
 💻 Main projects:
-- [🏦 Sistema bancário (Python)](https://github.com/iasminsantiago/sistema_bancario)
-- [📊 Análise de vendas anuais + tomada de decisão da diretoria (Python)](https://github.com/iasminsantiago/analise_vendas_anuais)
-- [⛽ Calculadora de desconto em combustíveis (Python)](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
-- [🔺Calculadora de triângulos (Python)](https://github.com/iasminsantiago/calculadora_triangulo)
-- [📦 Previsão de estoque (AWS Sagemaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
+- [🏦 Sistema bancário (Python) - Basic banking operations in Python](https://github.com/iasminsantiago/sistema_bancario)
+- [📊 Análise de vendas anuais + tomada de decisão da diretoria (Python) - Dashboard + decision support](https://github.com/iasminsantiago/analise_vendas_anuais)
+- [⛽ Calculadora de desconto em combustíveis (Python) - Compare fuel prices smartly](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
+- [🔺Calculadora de triângulos (Python) - Classify and calculate triangles](https://github.com/iasminsantiago/calculadora_triangulo)
+- [📦 Previsão de estoque (AWS Sagemaker) - Predict stock based on data](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
 
 
 📈 My Power BI Projects
