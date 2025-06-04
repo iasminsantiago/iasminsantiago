@@ -33,6 +33,7 @@
 - [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
 - [DIO](https://github.com/iasminsantiago/Projetos-python/tree/master/DIO)
 
+<div align="center"> ✨ Always learning, always building! ✨ </div>
 <br>
 
 
