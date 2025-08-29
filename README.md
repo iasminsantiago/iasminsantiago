@@ -1,5 +1,5 @@
 ## Hi! 👋 I'm Iasmin Santiago!
- ✨ A data engineer/software developer from Brazil, passionate about technology and inovation...
+ ✨ A data engineer/back-end developer from Brazil, passionate about technology and inovation...
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
 <br>
