@@ -11,7 +11,7 @@
 
 🌱  Currently improving my skills in  **Java, Python, SQL, C# and React**
 
-🛠️ Languages and Tools: Java • Python • SQL • C# • Power BI • Git • MySQL • SQL Server
+🛠️ Languages and Tools: Java • Python • SQL • C# • Power BI • Git • MySQL 
 <br>
 
 
