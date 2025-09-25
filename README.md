@@ -1,5 +1,6 @@
 ## Hi! 👋 I'm Iasmin Santiago!
- ✨ A data engineer/back-end developer from Brazil, passionate about technology and inovation...
+ ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java, Python and C#**, and working with **SQL, Power BI and Excel**. 
+ I love building projects that combine programming and data while continuously learning.
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
 <br>
@@ -8,9 +9,9 @@
 
 ✍️ I write articles on [DIO](https://www.dio.me/users/iasmin_santiago) and [Medium](https://medium.com/@iasmin.santiago)
 
-🌱  Currently improving my skills in  **Python, SQL, Java**
+🌱  Currently improving my skills in  **Java, Python, SQL, C# and React**
 
-🛠️ Languages and Tools: Python • SQL • Java • Power BI • Git • MySQL • SQL Server
+🛠️ Languages and Tools: Java • Python • SQL • C# • Power BI • Git • MySQL • SQL Server
 <br>
 
 
