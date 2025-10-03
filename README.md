@@ -1,5 +1,5 @@
 ## Hi! 👋 I'm Iasmin Santiago!
- ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java, Python and C#**, and working with **SQL, Power BI and Excel**. 
+ ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **SQL, Power BI and Excel**. 
  I love building projects that combine programming and data while continuously learning.
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
