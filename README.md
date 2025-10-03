@@ -7,7 +7,7 @@
 
 ###  About Me
 
-✍️ I write articles on [DIO](https://www.dio.me/users/iasmin_santiago) and [Medium](https://medium.com/@iasmin.santiago)
+✍️ I write articles on [Medium](https://medium.com/@iasmin.santiago)
 
 🌱  Currently improving my skills in  **Java, Python, SQL, C# and React**
 
