@@ -7,7 +7,7 @@
 
 ###  About Me
 
-✍️ I write articles on [Medium](https://medium.com/@iasmin.santiago)
+✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)
 
 🌱  Currently improving my skills in  **Java, Python, SQL, C# and React**
 
