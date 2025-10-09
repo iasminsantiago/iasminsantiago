@@ -9,7 +9,7 @@
 
 ✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)
 
-🌱  Currently improving my skills in  **Java, Python, SQL, C# and React**
+🌱  Currently improving my skills in  **Java, Python, SQL and React**
 
 🛠️ Languages and Tools: Java • Python • SQL • Power BI • Git • MySQL 
 <br>
