@@ -21,15 +21,19 @@
 <br>
 
 💡IDEs: VS CODE • IntelliJ IDEA • Google Colab
-
-
+<br>
+<br>
 ☕ Main Java Projects
- Java Banking System (Java)
+
+Java Banking System (Java)
+<br>
  – Implemented core banking operations using Object-Oriented Programming.
+ <br><br>
  Java Data Analysis Exercises (Java)
+ <br>
  – Small projects for practicing OOP and Java fundamentals.
-
-
+<br>
+<br>
 💻 Main Python projects:
 - [🏦 Sistema bancário (Python) - Basic banking operations in Python](https://github.com/iasminsantiago/sistema_bancario)
 - [📊 Análise de vendas anuais + tomada de decisão da diretoria (Python) - Dashboard + decision support](https://github.com/iasminsantiago/analise_vendas_anuais)
