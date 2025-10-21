@@ -28,7 +28,7 @@
 Java Banking System (Java)
 <br>
  – Implemented core banking operations using Object-Oriented Programming.
- <br><br>
+ <br>
  Java Data Analysis Exercises (Java)
  <br>
  – Small projects for practicing OOP and Java fundamentals.
