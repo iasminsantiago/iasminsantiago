@@ -1,6 +1,12 @@
 ## Hi! 👋 I'm Iasmin Santiago!
  ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **SQL, Power BI and Excel**. 
- I love building projects that combine programming and data while continuously learning.
+
+ ## About Me
+- Started studying IT in 2022 (Python, Power BI, Java)
+- Hands-on projects in **data analysis and automation**
+- Preparing for **Junior Full Stack developer / Data Analyst roles**
+- Love combining tech with **creativity and personal projects**
+- Lifelong learner
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
 <br>
@@ -14,8 +20,16 @@
 🛠️ Languages and Tools: Java • Python • SQL • Power BI • Git • MySQL 
 <br>
 
+💡IDEs: VS CODE • IntelliJ IDEA • Google Colab
 
-💻 Main projects:
+☕ Main Java Projects
+ Java Banking System (Java)
+ – Implemented core banking operations using Object-Oriented Programming.
+ Java Data Analysis Exercises (Java)
+ – Small projects for practicing OOP and Java fundamentals.
+
+
+💻 Main Python projects:
 - [🏦 Sistema bancário (Python) - Basic banking operations in Python](https://github.com/iasminsantiago/sistema_bancario)
 - [📊 Análise de vendas anuais + tomada de decisão da diretoria (Python) - Dashboard + decision support](https://github.com/iasminsantiago/analise_vendas_anuais)
 - [⛽ Calculadora de desconto em combustíveis (Python) - Compare fuel prices smartly](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
@@ -23,16 +37,16 @@
 - [📦 Previsão de estoque (AWS Sagemaker) - Predict stock based on data](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
 
 
-📈 My Power BI Projects
+📈 Main Power BI Projects
 - [🛍️ Sales Dashboard](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
 - [💙 Diabetes on women](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
 
 
 
-✨ All my Python projects:
-- [Main folder](https://github.com/iasminsantiago/Projetos-python)
-- [Alura](https://github.com/iasminsantiago/Projetos-python/tree/master/alura)
-- [DIO](https://github.com/iasminsantiago/Projetos-python/tree/master/DIO)
+✨ ## Personal Interests
+- I am a child of God, ballerina, amateur photographer and lifelong learner
+- Turkish series enthusiast - currently a beginner on turkish language
+- Ocasional content creator
 
 <div align="center"> ✨ Always learning, always building! ✨ </div>
 <br>
