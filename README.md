@@ -9,10 +9,10 @@
 - Lifelong learner!
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
+✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)  
+📣 We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
+<br>    
 <br>
-
-✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)
-
 🌱  Currently improving my skills in  **Java, Python, SQL and React**
 
 🛠️ Languages and Tools: Java • Python • SQL • Power BI • Git • MySQL 
@@ -46,13 +46,11 @@ Java Banking System (Java)
 
 
 
-✨ ## Personal Interests
+## ✨ Personal Interests
 - I am a child of God, ballerina, amateur photographer and lifelong learner
 - I love learning programming language with Java
 - Turkish series and stationery lover 
 - Ocasional content creator
-
-📣 We can talk in: Portugues-BR, English, Español, Türkçe
 
 
 <div align="center"> ✨ Always learning, always building! ✨ </div>
