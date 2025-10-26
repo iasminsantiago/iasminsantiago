@@ -3,15 +3,13 @@
 
  ## About Me
 - Started studying IT in 2022 (Python, Power BI, Java)
-- Hands-on projects in **data analysis and automation**
+- Hands-on projects in **back-end + Java, data analysis and automation**
 - Preparing for **Junior Full Stack developer / Data Analyst roles**
 - Love combining tech with **creativity and personal projects**
-- Lifelong learner
+- Lifelong learner!
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
 <br>
-
-###  About Me
 
 ✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)
 
@@ -50,8 +48,12 @@ Java Banking System (Java)
 
 ✨ ## Personal Interests
 - I am a child of God, ballerina, amateur photographer and lifelong learner
-- Turkish series enthusiast - currently a beginner on turkish language
+- I love learning programming language with Java
+- Turkish series and stationery lover 
 - Ocasional content creator
+
+📣 We can talk in: Portugues-BR, English, Español, Türkçe
+
 
 <div align="center"> ✨ Always learning, always building! ✨ </div>
 <br>
