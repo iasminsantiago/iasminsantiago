@@ -48,7 +48,7 @@ Java Banking System (Java)
 
 ## ✨ Personal Interests
 - I am a child of God, ballerina, amateur photographer and lifelong learner
-- I love learning programming language with Java and explore beyond code itself, like how does the pc save variables, types of memory and data, how network works etc
+- I love learning programming language with Java and explore the structure beyond the code: Recently, i've been diving into how the pc storages variables and works with classes and values, types of memory and data, how network works etc
 - Turkish series and stationery lover 
 - Ocasional content creator
 
