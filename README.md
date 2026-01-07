@@ -1,10 +1,10 @@
 ## Hi! 👋 I'm Iasmin Santiago!
- ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **SQL, Power BI and Excel**. 
+ ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **Spring Boot, SQL and Power BI**. 
 
  ## About Me
 - Started studying IT in 2022 (Python, Power BI, Java)
-- Hands-on projects in **back-end + Java, data analysis and automation**
-- Preparing for **Junior Full Stack developer / Data Analyst roles**
+- Hands-on projects in **back-end + Java, APIs and data analysis**
+- Preparing for **Junior Full Stack developer roles**
 - Love combining tech with **creativity and personal projects**
 - Lifelong learner!
 
@@ -13,9 +13,9 @@
 📣 We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>    
 <br>
-🌱  Currently improving my skills in  **Java, Python, SQL and React**
+🌱  Currently improving my skills in  **Java, Spring Boot**
 
-🛠️ Languages and Tools: Java • Python • SQL • Power BI • Git • MySQL 
+🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
 <br>
 
 💡IDEs: VS CODE • IntelliJ IDEA • Google Colab
