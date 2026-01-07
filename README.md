@@ -3,8 +3,8 @@
 
  ## About Me
 - Started studying IT in 2022 (Python, Power BI, Java)
-- Hands-on projects in **back-end + Java, APIs and data analysis**
-- Preparing for **Junior Full Stack developer roles**
+- Hands-on projects in **back-end with Java/Python, APIs and data analysis**
+- Preparing for **Junior Full Stack developer roles through formation and post-graduation programs**
 - Love combining tech with **creativity and personal projects**
 - Lifelong learner!
 
