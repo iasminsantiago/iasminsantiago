@@ -18,7 +18,7 @@
 🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
 <br>
 
-💡IDEs: VS CODE • IntelliJ IDEA • Google Colab
+💡IDEs: VS CODE • IntelliJ 
 <br>
 <br>
 ☕ Main Java Projects
