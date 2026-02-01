@@ -48,7 +48,7 @@
 ## ✨ Personal Interests
 - I am a child of God, classical ballerina and lifelong learner
 - I love learning the structure of code in java, beyond what we write: Recently, i've been diving into how APIs are structured and how internet and its transfer protocols work
-- Photography, camomile tea and stationery lover 
+- Photography, camomile tea, chocolate and stationery lover 
 
 
 <div align="center"> ✨ Always learning, always building! ✨ </div>
