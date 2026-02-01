@@ -23,10 +23,10 @@
 <br>
 ☕ Main Java Projects
 
-Task Manager<br>
- – Created API application that keeps track of users, their projects and its tasks using spring boot and Maven.
+[Project Manager](https://github.com/iasminsantiago/TaskManager)<br>
+ – Created an API ystem that manages projects using Spring Boot and Maven.
  <br>
- Java Data Analysis Exercises (Java)
+ Java POO Exercises
  <br>
  – Small projects for practicing OOP and Java fundamentals.
 <br>
