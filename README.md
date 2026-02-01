@@ -26,7 +26,7 @@
 [Project Manager](https://github.com/iasminsantiago/TaskManager)<br>
  – Created an API ystem that manages projects using Spring Boot and Maven.
  <br>
- Java POO Exercises
+ [Java POO Exercises](https://github.com/iasminsantiago/Java-Programming-Challenges)
  <br>
  – Small projects for practicing OOP and Java fundamentals.
 <br>
