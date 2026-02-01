@@ -13,7 +13,7 @@
 📣 We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>    
 <br>
-🌱  Currently improving my skills in  **Java, Spring Boot**
+🌱  Currently improving my skills in  **Java, Spring Boot, HTML, CSS**
 
 🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
 <br>
