@@ -2,7 +2,7 @@
  ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **Spring Boot and MySQL**. 
 
  ## About Me
-- Started studying IT in 2022 (Python, Power BI, Java), after discovering an enthusiasm for coding through chemical engineering major.
+- Started studying IT in 2022 (Python, Power BI, Java), after discovering an enthusiasm for coding during my Engineering major.
 - Hands-on projects in **back-end with Java/Python, APIs and data analysis**
 - Preparing for **Junior Full Stack developer roles through formation (full stack at Treina Recife) and post-graduation (ADS at PUC MINAS) programs**
 - Love combining tech with **creativity and personal projects**
