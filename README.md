@@ -23,9 +23,8 @@
 <br>
 ☕ Main Java Projects
 
-Java Banking System (Java)
-<br>
- – Implemented core banking operations using Object-Oriented Programming.
+Task Manager<br>
+ – Created API application that keeps track of users, their projects and its tasks using spring boot and Maven.
  <br>
  Java Data Analysis Exercises (Java)
  <br>
