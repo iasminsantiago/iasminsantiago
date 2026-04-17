@@ -21,14 +21,14 @@
 💡IDEs: VS CODE • IntelliJ 
 <br>
 <br>
-☕ Main Java Projects
+☕ Main API (Java + Spring) Projects
 
 [Project Manager](https://github.com/iasminsantiago/TaskManager)<br>
  – Created an API ystem that manages projects using Spring Boot and Maven.
  <br>
+ [Simple API using Spring, Swagger for tests and H2 for database](https://github.com/iasminsantiago/API_Demo_Spring)
  [Java POO Exercises](https://github.com/iasminsantiago/Java-Programming-Challenges)
  <br>
- – Small projects for practicing OOP and Java fundamentals.
 <br>
 <br>
 💻 Main Python projects:
