@@ -13,7 +13,6 @@
 
 We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>    
-<br>
 
 ---
 
