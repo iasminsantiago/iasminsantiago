@@ -21,6 +21,16 @@
 💡IDEs: VS CODE • IntelliJ 
 <br>
 <br>
+
+
+💼 FullStack project:
+
+[SGP - project management system](https://github.com/iasminsantiago/SGP_FullStack_TR))
+- Created a fullstack app: Java API REST secured with Spring security and front-end + React
+- Won as one of the 2 best projects of my class.
+ <br>
+
+
 ☕ Main API (Java + Spring) Projects
 
 [Project Manager](https://github.com/iasminsantiago/TaskManager)<br>
