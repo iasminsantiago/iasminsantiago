@@ -15,6 +15,8 @@ We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>    
 <br>
 
+---
+
 🌱  Currently improving my skills in  **Java, Spring Boot, HTML, CSS**
 
 🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
@@ -24,6 +26,7 @@ We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>
 <br>
 
+---
 
 💼 FullStack project:
 
@@ -57,7 +60,7 @@ We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 - [🛍️ Sales Dashboard](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
 - [💙 Diabetes on women](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
 
-
+---
 
 ## Personal Interests
 - I am a child of God, classical ballerina and lifelong learner
@@ -68,7 +71,7 @@ We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <div align="center"> ✨ Always learning, always building! ✨ </div>
 <br>
 
-
+--- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-download-png-1174953.png" target="_blank" rel=noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-download-png-1174953.png" alt="java" width="40" height="40"/> </a>
