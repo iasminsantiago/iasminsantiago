@@ -10,9 +10,11 @@
 
 📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
 ✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)  
-📣 We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
+
+We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
 <br>    
 <br>
+
 🌱  Currently improving my skills in  **Java, Spring Boot, HTML, CSS**
 
 🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
@@ -57,7 +59,7 @@
 
 
 
-## ✨ Personal Interests
+## Personal Interests
 - I am a child of God, classical ballerina and lifelong learner
 - I love learning the structure of code in java, beyond what we write: Recently, i've been diving into how APIs are structured and how internet and its transfer protocols work
 - Photography, camomile tea, chocolate and stationery lover 
