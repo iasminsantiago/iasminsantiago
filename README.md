@@ -1,6 +1,6 @@
 ## 🚀 About Me (EN)
 
-Hi! I'm Iasmin Santiago, a Chemical Engineering graduate and Data Science technologist.
+Hi! I'm Iasmin Santiago, a Chemical Engineering graduate working across software development, backend systems, and data-related solutions.
 
 I'm focused on **software development**, with experience in **backend systems, APIs, databases, and full-stack fundamentals**, using technologies such as **Java, Python, SQL, and Spring Boot**.
 
@@ -12,7 +12,7 @@ Currently, I'm improving my skills in **backend development, full-stack applicat
 
 ## 🚀 Sobre mim (PT-BR)
 
-Olá! Sou Iasmin Santiago, formada em Engenharia Química e tecnóloga em Ciência de Dados.
+Olá! Sou Iasmin Santiago, formada em Engenharia Química, atuando com desenvolvimento de software, sistemas backend e soluções relacionadas a dados.
 
 Tenho foco em **desenvolvimento de software**, com experiência em **sistemas backend, APIs, bancos de dados e fundamentos de full-stack**, utilizando tecnologias como **Java, Python, SQL e Spring Boot**.
 
