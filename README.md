@@ -39,9 +39,7 @@ Atualmente, estou aprimorando minhas habilidades em **desenvolvimento backend, a
 
 ### ⚙️ Backend & APIs
 - 🔗 [SGP - Full Stack Project](https://github.com/iasminsantiago/SGP_FullStack_TR)
--> Fullstack app: Java API REST secured with Spring security and front-end + React
-- Won as one of the 2 best projects of my class.
-  
+-> Fullstack app: Java API REST secured with Spring security and front-end + React; Won as one of the 2 best projects of my class.
   
 - 🔗 [Task Manager API](https://github.com/iasminsantiago/TaskManager)
 - 🔗 [Spring Boot Demo API](https://github.com/iasminsantiago/API_Demo_Spring) 
