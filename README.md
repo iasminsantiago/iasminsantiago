@@ -1,88 +1,87 @@
-## Hi! 👋 I'm Iasmin Santiago!
- ✨ I'm a student focused on **back-end development** and **data analysis**, experienced in **Java and Python**, and working with **Spring Boot and MySQL**. 
+## 🚀 About Me (EN)
 
- ## About Me
-- Started studying IT in 2022 (Python, Power BI, Java), after discovering an enthusiasm for coding during my Engineering major.
-- Hands-on projects in **back-end with Java/Python, APIs and data analysis**
-- Preparing for **Junior Full Stack developer roles through formation (full stack at Treina Recife) and post-graduation (ADS at PUC MINAS) programs**
-- Love combining tech with **creativity and personal projects**
-- Lifelong learner!
+Hi! I'm Iasmin Santiago, a Chemical Engineering graduate and Data Science technologist.
 
-📫 How to reach me: [Linkedin](linkedin.com/in/iasminsantiago/)
-✍️ I write articles on [Medium](https://medium.com/@iasminsantiago)  
+I'm focused on **software development**, with experience in **backend systems, APIs, databases, and full-stack fundamentals**, using technologies such as **Java, Python, SQL, and Spring Boot**.
 
-We can talk in: Portugues-BR, English, Español, Türkçe (beginner)
-<br>    
+I enjoy understanding how systems work end-to-end — from user interaction to backend logic and data flow — and how different components connect through APIs. I also have a strong interest in data and how it can be structured and used to improve systems and decision-making.
+
+Currently, I'm improving my skills in **backend development, full-stack applications, and data systems fundamentals**.
 
 ---
 
-🌱  Currently improving my skills in  **Java, Spring Boot, HTML, CSS**
+## 🚀 Sobre mim (PT-BR)
 
-🛠️ Languages and Tools: Java • Python • Spring Boot • SQL • Power BI • Git • MySQL 
-<br>
+Olá! Sou Iasmin Santiago, formada em Engenharia Química e tecnóloga em Ciência de Dados.
 
-💡IDEs: VS CODE • IntelliJ 
-<br>
-<br>
+Tenho foco em **desenvolvimento de software**, com experiência em **sistemas backend, APIs, bancos de dados e fundamentos de full-stack**, utilizando tecnologias como **Java, Python, SQL e Spring Boot**.
+
+Gosto de entender como os sistemas funcionam de ponta a ponta — desde a interação do usuário até a lógica de backend e fluxo de dados — e como os diferentes componentes se conectam através de APIs. Também tenho interesse em dados e em como eles podem ser estruturados para melhorar sistemas e apoiar decisões.
+
+Atualmente, estou aprimorando minhas habilidades em **desenvolvimento backend, aplicações full-stack e fundamentos de sistemas de dados**.
+
 
 ---
 
-💼 FullStack project:
 
-[SGP - project management system](https://github.com/iasminsantiago/SGP_FullStack_TR))
-- Created a fullstack app: Java API REST secured with Spring security and front-end + React
+## 🧭 Tech Focus
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 💼 Projects
+
+### ⚙️ Backend & APIs
+- 🔗 [SGP - Full Stack Project](https://github.com/iasminsantiago/SGP_FullStack_TR)
+-> Fullstack app: Java API REST secured with Spring security and front-end + React
 - Won as one of the 2 best projects of my class.
- <br>
-
-
-☕ Main API (Java + Spring) Projects
-
-[Project Manager](https://github.com/iasminsantiago/TaskManager)<br>
-- Created an API ystem that manages projects using Spring Boot and Maven.
- <br>
- 
- [Simple API using Spring, Swagger for tests and H2 for database](https://github.com/iasminsantiago/API_Demo_Spring)
- 
- [Java POO Exercises](https://github.com/iasminsantiago/Java-Programming-Challenges)
- <br>
-<br>
-<br>
-💻 Main Python projects:
-- [🏦 Sistema bancário (Python) - Basic banking operations in Python](https://github.com/iasminsantiago/sistema_bancario)
-- [📊 Análise de vendas anuais + tomada de decisão da diretoria (Python) - Dashboard + decision support](https://github.com/iasminsantiago/analise_vendas_anuais)
-- [⛽ Calculadora de desconto em combustíveis (Python) - Compare fuel prices smartly](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
-- [🔺Calculadora de triângulos (Python) - Classify and calculate triangles](https://github.com/iasminsantiago/calculadora_triangulo)
-- [📦 Previsão de estoque (AWS Sagemaker) - Predict stock based on data](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
-
-
-📈 Main Power BI Projects
-- [🛍️ Sales Dashboard](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
-- [💙 Diabetes on women](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
+  
+  
+- 🔗 [Task Manager API](https://github.com/iasminsantiago/TaskManager)
+- 🔗 [Spring Boot Demo API](https://github.com/iasminsantiago/API_Demo_Spring) 
+- 🔗 [Java OOP Exercises](https://github.com/iasminsantiago/Java-Programming-Challenges)
 
 ---
 
-## Personal Interests
-- I am a child of God, classical ballerina and lifelong learner
-- I love learning the structure of code in java, beyond what we write: Recently, i've been diving into how APIs are structured and how internet and its transfer protocols work
-- Photography, camomile tea, chocolate and stationery lover 
+### 📊 Data Projects
+- 🔗 [Banking System (Python)](https://github.com/iasminsantiago/sistema_bancario)
+- 🔗 [Sales Analysis + dashboard](https://github.com/iasminsantiago/analise_vendas_anuais)
+- 🔗 [Fuel Calculator](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
+- 🔗 [Inventory Prediction (AWS SageMaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
 
+---
 
-<div align="center"> ✨ Always learning, always building! ✨ </div>
-<br>
+### 📊 BI Projects
+- 🔗 [Power BI Sales Dashboard](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
+- 🔗 [Power BI Diabetes Analysis](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
 
---- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-download-png-1174953.png" target="_blank" rel=noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-download-png-1174953.png" alt="java" width="40" height="40"/> </a>
- <a href="https://ertan-toker.de/wp-content/uploads/2018/04/SpringBoot_Maven_Logo-thegem-blog-default.png" target="_blank" rel=noreferrer">  <img src="https://ertan-toker.de/wp-content/uploads/2018/04/SpringBoot_Maven_Logo-thegem-blog-default.png" alt="springbootmaven" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasminsantiago&show_icons=true&locale=en&layout=compact" alt="iasminsantiago" /></p>
+## 🎯 What I’m focusing on / Foco atual
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iasminsantiago&show_icons=true&locale=en" alt="iasminsantiago" /></p>
+- Backend development with Java & Spring Boot  
+- Full-stack development fundamentals  
+- APIs and system integration  
+- Databases and SQL  
+- Data systems fundamentals (structure, flow, and organization)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/iasminsantiago  
+- Medium: medium.com/@iasminsantiago  
+
+---
+
+## ✨ Always learning, always building
+
 
 <!--
 **iasminsantiago/iasminsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -95,6 +94,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
