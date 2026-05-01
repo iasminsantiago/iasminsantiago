@@ -7,6 +7,7 @@ I'm focused on **software development**, with experience in **backend systems, A
 I enjoy understanding how systems work end-to-end - from user interaction to backend logic and data flow - and how different components connect through APIs. I also have a strong interest in data and how it can be structured and used to improve systems and decision-making.
 
 Currently, I'm improving my skills in **backend development, full-stack development, and data systems fundamentals**. I like working across systems, connecting backend logic, APIs, and data flow to build reliable and structured solutions.
+
 ---
 
 ## 🚀 Sobre mim (PT-BR)
