@@ -2,7 +2,7 @@
 
 Hi! I'm Iasmin Santiago, a Chemical Engineering graduate with experience in software development, backend systems, and data-related solutions.
 
-I'm focused on **software development**, with experience in **backend systems, APIs, databases, and full-stack development fundamentals**, using technologies such as **Java, Python, SQL, and Spring Boot**.
+I'm focused on **software development**, with experience in **backend systems, APIs, databases, and full-stack development fundamentals**, using technologies such as **Java, Python, SQL and Spring Boot**.
 
 I enjoy understanding how systems work end-to-end - from user interaction to backend logic and data flow - and how different components connect through APIs. I also have a strong interest in data and how it can be structured and used to improve systems and decision-making.
 
