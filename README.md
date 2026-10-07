@@ -1,95 +1,21 @@
 ## 🚀 About Me (EN)
 
-Hi! I'm Iasmin Santiago, a Chemical Engineering graduate with experience in software development, backend systems, and data-related solutions.
+Hi! I'm Iasmin Santiago, a Chemical Engineering graduate focused on **data and analytics engineering**.
 
-I'm focused on **software development**, with experience in **backend systems, APIs, databases, and full-stack development fundamentals**, using technologies such as **Java, Python, SQL,  Spring Boot, and Power BI**.
+I work with **SQL, Python, and Power BI** to structure, transform, and analyze data, turning it into reliable information for decision-making.
 
-I enjoy understanding how systems work end-to-end - from user interaction to backend logic and data flow - and how different components connect through APIs. I also have a strong interest in data and how it can be structured and used to improve systems and decision-making.
+I also bring a solid **software development background** (Java, Spring Boot, APIs, and databases), which helps me understand how data is generated, moved, and consumed across systems, from user interaction to backend logic and data flow.
 
-Currently, I'm improving my skills in **data and analytics engineering, backend development and data systems fundamentals**. I like working across systems, transforming data and connecting backend logic, APIs, and data flow to build reliable and structured solutions.
+Currently, I'm deepening my skills in **data pipelines, data modeling, and analytics**, building on my backend experience to create reliable and well-structured solutions.
 
 ---
 
 ## 🚀 Sobre mim (PT-BR)
 
-Olá! Sou Iasmin Santiago, formada em Engenharia Química, com experiência em desenvolvimento de software, sistemas backend e soluções relacionadas a dados.
+Olá! Sou Iasmin Santiago, formada em Engenharia Química, com foco em **engenharia de dados e analytics**.
 
-Tenho foco em **desenvolvimento de software**, com experiência em **sistemas backend, APIs, bancos de dados e fundamentos de desenvolvimento full-stack**, utilizando tecnologias como **Java, Python, SQL, Spring Boot e Power BI**.
+Trabalho com **SQL, Python e Power BI** para estruturar, transformar e analisar dados, transformando-os em informação confiável para apoiar decisões.
 
-Gosto de entender como os sistemas funcionam de ponta a ponta - desde a interação do usuário até a lógica de backend e fluxo de dados - e como os diferentes componentes se conectam através de APIs. Também tenho interesse em dados e em como eles podem ser estruturados para melhorar sistemas e apoiar decisões.
+Também tenho uma **base sólida em desenvolvimento de software** (Java, Spring Boot, APIs e bancos de dados), o que me ajuda a entender como os dados são gerados, movimentados e consumidos entre sistemas, da interação do usuário até a lógica de backend e o fluxo de dados.
 
-Atualmente, estou aprimorando minhas habilidades em **engenharia de dados e analytics, desenvolvimento backend e fundamentos de sistemas de dados**. Gosto de trabalhar entre diferentes camadas de sistemas, transformar dados,  conectando lógica de backend, APIs e fluxo de dados para construir soluções confiáveis e estruturadas.
-
----
-
-
-## 🧭 Tech Focus
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 💼 Projects
-
-### ⚙️ Backend & APIs
-- 🔗 [SGP - Full Stack Project](https://github.com/iasminsantiago/SGP_FullStack_TR)
-- Full-stack application using Java REST API with Spring Security and React frontend.  
-  Selected as one of the top 2 projects in my class.
-- 🔗 [Task Manager API](https://github.com/iasminsantiago/TaskManager)
-- 🔗 [Spring Boot Demo API](https://github.com/iasminsantiago/API_Demo_Spring) 
-- 🔗 [Java OOP Exercises](https://github.com/iasminsantiago/Java-Programming-Challenges)
-
----
-
-### 📊 Data Projects
-- 🔗 [Banking System (Python)](https://github.com/iasminsantiago/sistema_bancario)
-- 🔗 [Sales Analysis + dashboard](https://github.com/iasminsantiago/analise_vendas_anuais)
-- 🔗 [Fuel Calculator](https://github.com/iasminsantiago/calculadora_desconto_combustivel)
-- 🔗 [Inventory Prediction (AWS SageMaker)](https://github.com/iasminsantiago/lab-aws-sagemaker-canvas-estoque)
-
----
-
-### 📊 BI Projects
-- 🔗 [Power BI Sales Dashboard](https://github.com/iasminsantiago/powerbi_reports/tree/sales-powerbi)
-- 🔗 [Power BI Diabetes Analysis](https://github.com/iasminsantiago/powerbi_reports/tree/diabetes_kaggledataset)
-
----
-
-## 🎯 What I’m focusing on / Foco atual
-
-- Backend development with Java & Spring Boot  
-- Full-stack development fundamentals  
-- APIs and system integration  
-- Databases and SQL  
-- Data systems fundamentals (structure, flow, and organization)
-
----
-
-## 📫 Contact
-
-- LinkedIn: linkedin.com/in/iasminsantiago  
-- Medium: medium.com/@iasminsantiago  
-
----
-
-## ✨ Always learning, always building
-
-
-<!--
-**iasminsantiago/iasminsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando minhas habilidades em **pipelines de dados, modelagem de dados e analytics**, aproveitando minha experiência em backend para construir soluções confiáveis e bem estruturadas.
